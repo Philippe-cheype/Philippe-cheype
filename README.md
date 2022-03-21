@@ -7,7 +7,7 @@
     </b>
   </h1>
   <p>
-    <pre>Student - currently @ Indigen as an intern</pre>
+    <pre>Student - currently @ Epitech in second year</pre>
   </p>
 
   </br>
